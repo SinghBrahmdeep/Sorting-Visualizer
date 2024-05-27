@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.break{
+  display: flex;
+  gap: 20px;
+}
+.nav{
+  align-items: center;
+  justify-content: space-around;
+  border: 2px solid black;
+}
+
+.array{
+  height: 400px;
+  width: 44%;
+  border: 2px solid black;
+  align-items: flex-end;
+  position: relative;
+}
+
+.body{
+  justify-content: center;
+  align-items: center;
+  margin: 70px;
+}
+
+button{
+  font-size: 25px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  gap: 10px;
+}
+
+.content{
+
+  width: 30%;
+  height: 400px;
+  
+
+  padding: 20px;
+}
+
+.complexity{
+  
+  width: 30%;
+  height: 400px;
+  padding: 20px;
+}
+
+.table td,th{
+  padding: 10px;
+}
+.table{
+  gap: 10px;
+  border: 1px solid black;
+}

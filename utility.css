@@ -1,0 +1,34 @@
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.flex{
+  display: flex;
+}
+
+.m-1{
+  margin: 10px;
+}
+
+.p-1{
+  padding : 10px;
+}
+
+.bar-being-compared {
+  background-color: blue !important; /* Set the color to blue */
+}
+
+.red{
+  background-color: red !important;
+}
+
+.pivot{
+  background-color: aqua !important;
+}
+
+.heap{
+  background-color: yellow !important;
+}
+
